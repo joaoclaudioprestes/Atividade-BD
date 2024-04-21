@@ -38,7 +38,7 @@ O modelo lógico foi construído utilizando a aplicação web **_dbdiagram.io_**
 
 CREATE DATABASE Mercadao;
 
-GO USE Loja;
+GO USE Mercadao;
 
 GO
 CREATE TABLE

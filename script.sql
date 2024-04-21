@@ -1,6 +1,6 @@
 CREATE DATABASE Mercadao;
 
-GO USE Loja;
+GO USE Mercadao;
 
 GO
 CREATE TABLE
